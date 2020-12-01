@@ -10,7 +10,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        int i = 20;
+        int i = 30;
 
         int i2 = 3;
 
