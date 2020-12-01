@@ -12,6 +12,8 @@ public class Test {
 
         int i = 1;
 
+        int i2 = 2;
+
 
     }
 }
